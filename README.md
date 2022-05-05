@@ -7,7 +7,7 @@
 --- 
 ### :woman_technologist: About Me : 
 
-I am a first year Computer Science student at the Univeristy of Leicester <img src="https://media.giphy.com/media/8t7lXR6Sep8zB6v7El/giphy.gif" width="50"> 
+I am a first year Computer Science student at the Univeristy of Leicester <img src="https://media.giphy.com/media/8t7lXR6Sep8zB6v7El/giphy.gif" width="40"> 
 
 - 🤖: I am interested in Maths, Artificial Intelligence and Robotics. 
 
@@ -20,10 +20,7 @@ I am a first year Computer Science student at the Univeristy of Leicester <img s
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
 </div>
