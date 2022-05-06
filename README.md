@@ -3,12 +3,8 @@
 <div align="center">
   <img src="https://img.freepik.com/free-vector/cute-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-1444.jpg" width="400" height="400"/>
 </div>
-
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassRai&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
---- 
 ### :woman_technologist: About Me : 
 
 I am a first year Computer Science student at the Univeristy of Leicester!
@@ -32,3 +28,5 @@ I am a first year Computer Science student at the Univeristy of Leicester!
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassRai&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
