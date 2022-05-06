@@ -10,11 +10,9 @@
 I am a first year Computer Science student at the Univeristy of Leicester!
 
 - 🤖: I am interested in Artificial Intelligence AND Robotics. 
-
-- Hobbies:
-        - 🏑 I play badminton and  I am also in my University's mixed hockey team 
-        - 📖 I love to read especially classics 
-        - 🎼 Constantly listening to music - particuarly 80s, 90s and 00s hits! 
+- 🏑 I play badminton and  I am also in my University's mixed hockey team 
+- 📖 I love to read especially classics 
+- 🎼 Constantly listening to music - particuarly 80s, 90s and 00s hits! 
        
         
 ---
