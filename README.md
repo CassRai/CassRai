@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me : 
 
-I am a first year Computer Science student at the University of Leicester!
+I am a second year Computer Science student at the University of Leicester!
 
 - 🤖: I am interested in Artificial Intelligence and Robotics. 
 - 🏑 I play Badminton and  I am also in my University's mixed hockey team.
