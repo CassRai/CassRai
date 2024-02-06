@@ -32,6 +32,5 @@ I am a final year Computer Science student at the University of Leicester!
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
 </div>
 
