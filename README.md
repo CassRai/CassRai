@@ -22,7 +22,6 @@ I am a final year Computer Science student at the University of Leicester!
 ### :hammer_and_wrench: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassRai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassRai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
