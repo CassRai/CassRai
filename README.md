@@ -8,13 +8,13 @@
 
 ### :woman_technologist: About Me : 
 
-I am a second year Computer Science student at the University of Leicester!
+I am a final year Computer Science student at the University of Leicester!
 
 - 🤖: I am interested in Artificial Intelligence and Robotics. 
 - 🏑 I play Badminton and  I am also in my University's mixed hockey team.
 - 📖 I love to read - especially classics. 
 - 🎼 I am constantly listening to music - particularly 80s, 90s and 00s hits! 
-- 🏛️ I love learning about history - through museums, tours and documentaries
+- 🏛️ I love learning about history - through museums, tours, and documentaries
        
         
 ---
