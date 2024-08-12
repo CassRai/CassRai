@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me : 
 
-I am a Computer Science graduate from the University of Leicester!
+I am a Computer Science graduate from the University of Leicester
 
 - 🤖 I am interested in Artificial Intelligence and Robotics. 
 - 💊 I love learning about the microbiome and other medical/healthcare topics
