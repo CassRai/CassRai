@@ -8,11 +8,11 @@
 
 ### :woman_technologist: About Me : 
 
-I am a Computer Science graduate from the University of Leicester
+I am a Computer Science grad from the University of Leicester
 
 - 🤖 I am interested in Artificial Intelligence and Robotics. 
 - 💊 I love learning about the microbiome and other medical/healthcare topics
-- 📖 I love to read - especially classics. 
+- 📖 I love to read - especially modern classics and classics. 
 - 🎼 I am constantly listening to music - particularly 80s, 90s and 00s hits! 
 - 🏛️ I love learning about history - through museums, tours, and documentaries
        
