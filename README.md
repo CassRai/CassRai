@@ -8,7 +8,9 @@
 
 ### :woman_technologist: About Me : 
 
-I am a Computer Science grad from the University of Leicester
+I am currently a Master's student studying Scientific Computing and Data Analysis (Computer Vision and Robotics) at Durham University.
+
+Facts about me:
 
 - 🤖 I am interested in Artificial Intelligence and Robotics. 
 - 💊 I love learning about the microbiome and other medical/healthcare topics
