@@ -10,11 +10,9 @@
 
 I am currently a Master's student studying Scientific Computing and Data Analysis (Computer Vision and Robotics) at Durham University.
 
-- 🤖 I am interested in Artificial Intelligence and Robotics. 
-- 💊 I love learning about the microbiome and other medical/healthcare topics
-- 📖 I love to read - especially modern classics and classics. 
-- 🎼 I am constantly listening to music - particularly 80s, 90s and 00s hits! 
-- 🏛️ I love learning about history - through museums, tours, and documentaries
+- 🤖 I have a particular interest in Reinforcement Learning and Mobile Robotics.
+- 💊 I love learning about the microbiome and other medical/healthcare topics.
+
        
         
 ---
