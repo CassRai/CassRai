@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me : 
 
-I am currently a Master's student studying Scientific Computing and Data Analysis (Computer Vision and Robotics) at Durham University.
+I am currently a Postgraduate student studying an MSc in Scientific Computing and Data Analysis (Computer Vision and Robotics) at Durham University.
 
 - 🤖 I have a particular interest in Reinforcement Learning and Mobile Robotics.
 - 💊 I love learning about the microbiome and other medical/healthcare topics.
