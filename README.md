@@ -19,7 +19,7 @@ I am currently a Postgraduate student studying an MSc in Scientific Computing an
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=CassRai)](https://github.com/anuraghazra/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CassRai&layout=donut-vertical&langs_count=7&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=CassRai&layout=donut-vertical&langs_count=7&theme=buefy)
 
 
 <div>
